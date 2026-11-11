@@ -40,4 +40,12 @@ The payment tests exercise the standalone lifecycle and receipt verifier with fi
 | Payment lifecycle and receipt verification | Standalone development source | Deployment unverified |
 | Theme integrations and snippets | Selected 3PM code and historical snippets | Deployment unverified |
 
-Version matches refer to plugin headers and the active WordPress inventory. Local sources can differ from the files installed on production. WordPress database content, including Elementor layouts configured in the dashboard, production options, user and order data, and private media, remains on the live platform. The commercial theme and vendor plugins are installed separately.
+Version matches refer to plugin headers and the active WordPress inventory. Local sources can differ from the files installed on production. Production options, user and order data, and private media remain on the live platform. The commercial theme and vendor plugins are installed separately.
+
+## Elementor, snippets and theme overrides
+
+- [Published Elementor layouts](../wordpress/elementor) contains raw builder data for all nine published documents listed by the Elementor connector.
+- [Reviewed Code Snippets snapshot](../wordpress/snippets/reviewed) contains 24 local source snapshots and their saved scopes and activation states.
+- [Theme integration snapshots](../wordpress/theme-integration) includes selected 3PM navigation, music-library and wallet overrides. Use these as references when assembling the licensed child theme in staging.
+
+Live theme files and current Code Snippets state have yet to be compared file by file against these local snapshots.

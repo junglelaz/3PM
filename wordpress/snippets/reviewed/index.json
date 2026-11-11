@@ -1,0 +1,146 @@
+[
+  {
+    "file": "5-block-mixing-3pm-top-ups-with-other-products.php",
+    "name": "Block mixing $3PM top-ups with other products",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "6-show-only-the-correct-payment-methods-per-cart.php",
+    "name": "Show only the correct payment methods per cart",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "7-friendly-notice-if-3pm-wallet-balance-is-insufficient.php",
+    "name": "Friendly notice if $3PM wallet balance is insufficient",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "26-live-status-indicator-live-in-horizontal-menu-is-red-when-not-live-bli.php",
+    "name": "Live Status Indicator - 'Live' in Horizontal Menu is Red when not live, blinks Green when live",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "9-add-a-dynamic-my-wallet-123-3pm-menu-item.php",
+    "name": "Add a dynamic “My Wallet (123 $3PM)” menu item",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "10-force-music-player-to-stay-consistent-on-woocommerce-templates.php",
+    "name": "Force music player to stay consistent on WooCommerce templates",
+    "active_at_snapshot": false,
+    "scope": "global"
+  },
+  {
+    "file": "23-avail-all-recorded-live-streams-to-all-comrades-on-streams-page.php",
+    "name": "Avail All Recorded Live Streams To All Comrades on Streams Page",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "14-only-show-short-version-of-recurring-price-ie-xxx-per-month.php",
+    "name": "Only Show Short Version of Recurring Price (ie XXX per month)",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "15-add-emojis-to-comrade-level-titles.php",
+    "name": "Add Emojis to Comrade Level Titles",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "16-add-my-plan-section-to-my-account-menu.php",
+    "name": "Add My Plan section to My Account menu",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "25-live-status-indicator-red-or-green-dot-next-to-live-in-vertical-menu.php",
+    "name": "Live Status Indicator - Red or Green Dot Next to 'Live' in Vertical Menu",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "24-update-base-url-for-vods-to-recorded-streams.php",
+    "name": "Update base URL for VODs to 'recorded-streams'",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "21-convert-usd-to-3pm-when-user-tops-up-wallet.php",
+    "name": "Convert USD to $3PM when User Tops Up Wallet",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "29-my-account-minor-polishes.php",
+    "name": "My Account - Minor Polishes",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "28-update-my-account-menu-rename-dashboard-remove-the-wpstream-entries-re.php",
+    "name": "Update My Account Menu: Rename Dashboard, remove the WPStream entries, restores My Wallet (TeraWallet) with balance view",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "40-only-load-motion-fx-on-homepage-once-per-session.php",
+    "name": "Only load motion fx on homepage once per session",
+    "active_at_snapshot": false,
+    "scope": "global"
+  },
+  {
+    "file": "32-add-icons-to-vertical-menu.php",
+    "name": "Add Icons to Vertical Menu",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "33-make-elementor-stretch-sections-truly-full-width-always.css",
+    "name": "Make Elementor Stretch Sections Truly Full-Width Always",
+    "active_at_snapshot": true,
+    "scope": "admin-css"
+  },
+  {
+    "file": "34-give-sliders-their-proper-width-after-paint.js",
+    "name": "Give sliders their proper width after paint",
+    "active_at_snapshot": true,
+    "scope": "site-head-js"
+  },
+  {
+    "file": "35-only-give-10-back-in-3pm-coins-when-user-purchases-a-shop-item-or-memb.php",
+    "name": "Only give 10% back in $3PM coins when user purchases a shop item or membership",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "36-switch-my-account-in-both-menus-to-register-and-show-log-in-when-user-.php",
+    "name": "Switch 'My Account' in both menus to 'Register' and show 'Log In' when user is not logged in",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "37-hide-register-button-in-homepage-intro-for-logged-in-users.php",
+    "name": "Hide 'Register' button in homepage intro for Logged In users",
+    "active_at_snapshot": true,
+    "scope": "global"
+  },
+  {
+    "file": "38-remove-duplicate-tracks-from-playlist.js",
+    "name": "Remove Duplicate Tracks from Playlist",
+    "active_at_snapshot": false,
+    "scope": "site-head-js"
+  },
+  {
+    "file": "39-assign-random-starting-views-amount-for-blog-posts.php",
+    "name": "Assign Random Starting Views Amount for Blog Posts",
+    "active_at_snapshot": true,
+    "scope": "global"
+  }
+]

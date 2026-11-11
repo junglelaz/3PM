@@ -1,0 +1,8 @@
+
+.woocommerce-account .woocommerce-MyAccount-navigation ul>li+li{margin-top:6px!important}
+.woocommerce-MyAccount-content[aria-busy="true"]{position:relative;min-height:180px}
+.woocommerce-MyAccount-content[aria-busy="true"]>:not(.threepm-account-loading){opacity:.3;pointer-events:none}
+.woocommerce-MyAccount-content>.threepm-account-loading{position:absolute;inset:0;z-index:20;display:flex;align-items:center;justify-content:center;gap:12px;min-height:180px;background:rgba(9,17,13,.78);color:#caff40;font-size:14px;font-weight:600;cursor:progress;border-radius:8px}
+.threepm-account-spinner{display:inline-block;flex:0 0 26px;width:26px;height:26px;box-sizing:border-box;border:3px solid rgba(202,255,64,.2);border-top-color:#caff40;border-radius:50%;animation:threepm-account-spin .75s linear infinite}
+@keyframes threepm-account-spin{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.threepm-account-spinner{animation:none;border-style:dotted}}
