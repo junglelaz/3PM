@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+wp-config.php
+wp-content/uploads/
+*.sql
+*.sql.gz
+*keypair*.json
+*.pem
+*.key
+node_modules/
+target/

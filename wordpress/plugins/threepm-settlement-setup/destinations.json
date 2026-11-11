@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "network": "solana-mainnet",
+  "wallets": {
+    "spendReserve": "",
+    "hodlReserve": "",
+    "platformFees": ""
+  },
+  "addressSource": "",
+  "recordedDate": null,
+  "validation": "canonical-base58-32-byte-on-curve-distinct",
+  "ownershipProofVerified": false,
+  "productionPaymentsEnabled": false,
+  "serviceFlow": "escrow-until-approved-completion",
+  "licenceFlow": "confirmed-split-before-coverage",
+  "deploymentAuthority": null,
+  "serviceProgramId": null,
+  "note": "Wallet addresses are reserve owners. SPL token transfers require the matching mint-specific token accounts. Public-address validation does not prove wallet control."
+}

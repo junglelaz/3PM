@@ -1,31 +1,17 @@
 # Platform architecture
 
-This map describes the public product and the WordPress components identified in the available 3PM source. The archived packages are historical source snapshots. Their versions may differ from the live deployment.
+3PM is a WordPress platform with custom PHP plugins, browser JavaScript and CSS, and WooCommerce for commerce. The [development guide](development.md) lists the dependencies and compares available source with the observed live plugin versions.
 
-| Layer | Components | Responsibilities |
+| Flow | Components | Responsibilities |
 | --- | --- | --- |
-| Content and presentation | WordPress, Vice theme, Elementor | Render releases, artist pages, editorial content and templates. |
-| Playback | Vice player and 3PM extensions | Build a cross-release playlist, retain links back to each release and populate browser media metadata. |
-| Commerce and accounts | WooCommerce and 3PM integrations | Handle products, checkout, orders and customer account views. |
-| Artist profiles | WordPress artist posts and custom profile code | Store profile details and present them through Elementor shortcode widgets. Recent work includes press links and account-dashboard controls. |
-| Membership and support | Vaults, membership experience and platform rewards | Give fans ways to access member content and support artists. See the [public fan page](https://3rdpersonmusic.com/for-fans/) for eligibility and terms. |
+| Discover and listen | Homepage Rebuild, Vice, Media Session Artwork, Personal Playlists | Present releases and artists, play tracks, populate device controls, and save personal playlists. |
+| Publish and manage | Artist Studio, artist profile tools, Account Insights | Edit release and artist details, maintain public profiles and press links, and present account activity. |
+| Buy and support | WooCommerce, 3PM Suite, TeraWallet, membership integration | Handle store orders, wallets, top-ups and customer account views. |
+| Buy a creative service | Artist & Service Market | Manage artist approval, offerings, requests and agreements. |
+| Request a licence | License Request Tool | Collect music licence requests and manage their progression. |
+| Fulfil a digital reward | Airdrop Orchestrator | Track eligible order items and record fulfilment. |
+| Develop settlement | Settlement Setup, payment core and Solana code | Define destinations, model agreements and verify transaction receipts in development and tests. |
 
-## How the components fit together
+## Data boundaries
 
-- **Release to player.** WordPress stores releases and their track lists. The archived aggregate-player extension reads the published release tracks, builds a playlist and passes it to the Vice player with the release links intact.
-- **Player to device.** The archived Media Session extension reads the player state and provides artwork and track details to browser and device media controls.
-- **Artist to profile.** Profile fields live with the artist post. Elementor renders the public profile through a custom shortcode. WooCommerce account hooks support artist-facing updates.
-- **Editor to post.** The featured image toggle saves a preference on a post or page and uses WordPress rendering filters to hide the image on its individual page.
-
-## Source inventory
-
-| Component | Repository status |
-| --- | --- |
-| 3PM Featured Image Toggle 1.1.0 | [Published source](../wordpress/plugins/threepm-featured-image-toggle/threepm-featured-image-toggle.php) |
-| Vice aggregate player and Media Session artwork | Archived source packages located. Verify the release version and dependencies before publishing a deployment package. |
-| FileBird subfolder browser and airdrop integration | Archived source packages located. Review data access, configuration and deployment status before public release. |
-| Artist profile and press tools | Development snapshots located. Reconcile with the deployed revision before publishing. |
-
-## Working with the published plugin
-
-Copy the `threepm-featured-image-toggle` folder into `wp-content/plugins/` in a local or staging WordPress installation and activate it. In the post or page editor, use **Featured Image Display** to toggle the behavior. Check an enabled and disabled post, a page that uses the Featured Image block, and an archive view. The plugin header identifies its license as GPL-2.0+.
+WordPress posts and metadata hold profiles, releases and track lists. The music player uses release data, while account and order state comes from WordPress and WooCommerce. Custom plugins extend those interfaces and provide account endpoints and admin screens. Elementor template composition and site settings also live in WordPress. Keep local development self-contained by using fixture content and sandbox payments.

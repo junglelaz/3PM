@@ -1,0 +1,11 @@
+{
+  "network": "solana-devnet",
+  "genesis": "EtWTRABZaYq6iMfeYKouRu166VU2xqa1wcaWoxPkrZBG",
+  "program_id": "EyGxyQHbQSADP9bBXoaxESUkSfRBjWpVLTGLbBQoea9n",
+  "binary_sha256": "afb3ededaf80fb0e3a0e31a3786441c5286040e5dcafd01985859c8a19711030",
+  "deployment_signature": "9Td4VMoHXE1fERpdHG38dAmDQq3xcThX6T9KE76Zwhje8EL66AsKSxHDFXBApPt5hX2izN5BWqWu2KpibqFJWsM",
+  "production_enabled": false,
+  "state_size": 348,
+  "upgrade_authority": "isolated temporary devnet test wallet; not production authority",
+  "processing_cost_instruction": 7
+}

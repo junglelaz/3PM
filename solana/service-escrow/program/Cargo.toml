@@ -1,0 +1,11 @@
+[package]
+name = "threepm_service_escrow"
+version = "0.1.0"
+edition = "2021"
+publish = false
+[lib]
+crate-type = ["cdylib", "lib"]
+[dependencies]
+solana-program = "=2.2.0"
+[features]
+no-entrypoint = []

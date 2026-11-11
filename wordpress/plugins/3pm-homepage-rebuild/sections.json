@@ -1,0 +1,1281 @@
+{
+  "manifesto": {
+    "id": "244210e4",
+    "elType": "container",
+    "settings": {
+      "container_type": "flex",
+      "content_width": "full",
+      "css_classes": "pm-section pm-manifesto",
+      "flex_direction": "column",
+      "flex_direction_mobile": "column",
+      "flex_wrap": "nowrap",
+      "flex_gap": {
+        "size": 20,
+        "unit": "px",
+        "column": "20",
+        "row": "20",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "a40e431e",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "full",
+          "css_classes": "pm-inner",
+          "flex_direction": "column",
+          "flex_direction_mobile": "column",
+          "flex_wrap": "nowrap",
+          "flex_gap": {
+            "size": 20,
+            "unit": "px",
+            "column": "20",
+            "row": "20",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "95df034c",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "css_classes": "pm-row",
+              "flex_direction": "row",
+              "flex_direction_mobile": "column",
+              "flex_wrap": "nowrap",
+              "flex_gap": {
+                "size": 20,
+                "unit": "px",
+                "column": "20",
+                "row": "20",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "6ec0830a",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "css_classes": "pm-col",
+                  "flex_direction": "column",
+                  "flex_direction_mobile": "column",
+                  "flex_wrap": "nowrap",
+                  "flex_gap": {
+                    "size": 20,
+                    "unit": "px",
+                    "column": "20",
+                    "row": "20",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "20368764",
+                    "elType": "widget",
+                    "widgetType": "heading",
+                    "settings": {
+                      "title": "01 / THE PROJECT",
+                      "header_size": "p",
+                      "title_color": "#f0f3e9",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_weight": "600",
+                      "_css_classes": "pm-eyebrow"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "b599a43a",
+                    "elType": "widget",
+                    "widgetType": "heading",
+                    "settings": {
+                      "title": "Lose the noise.<br>Find your Self.",
+                      "header_size": "h2",
+                      "title_color": "#f0f3e9",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_weight": "600",
+                      "_css_classes": "pm-heading"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "573548e4",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                      "editor": "<p>3rd Person Music is a musician-built Web3 ecosystem exploring a different future for independent music.</p>",
+                      "text_color": "#a2aaa1",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      },
+                      "_css_classes": "pm-copy pm-lead"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "62ac28af",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                      "editor": "<p>Being independent shouldn’t mean figuring everything out alone. We bring music, creative services, and direct fan support into one evolving community—so artists can build on their own terms.</p>",
+                      "text_color": "#a2aaa1",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      },
+                      "_css_classes": "pm-copy"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "14a2f94f",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                      "editor": "<p>Our own artists and releases are the testing ground. The ambition: prove a model of sovereign music, then share the blueprint with the world.</p>",
+                      "text_color": "#a2aaa1",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      },
+                      "_css_classes": "pm-copy"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "c2d4afce",
+                    "elType": "widget",
+                    "widgetType": "button",
+                    "settings": {
+                      "text": "Meet 3PM",
+                      "link": {
+                        "url": "https://3rdpersonmusic.com/about/#3pm",
+                        "is_external": "",
+                        "nofollow": ""
+                      },
+                      "size": "md",
+                      "background_color": "#caff40",
+                      "button_text_color": "#11160a",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": 0,
+                        "right": 0,
+                        "bottom": 0,
+                        "left": 0,
+                        "isLinked": true
+                      },
+                      "_css_classes": "pm-button pm-button-secondary"
+                    },
+                    "elements": []
+                  }
+                ]
+              },
+              {
+                "id": "d6eabe09",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "css_classes": "pm-col pm-visual",
+                  "flex_direction": "column",
+                  "flex_direction_mobile": "column",
+                  "flex_wrap": "nowrap",
+                  "flex_gap": {
+                    "size": 20,
+                    "unit": "px",
+                    "column": "20",
+                    "row": "20",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "f5539c29",
+                    "elType": "widget",
+                    "widgetType": "image",
+                    "settings": {
+                      "image": {
+                        "url": "https://3rdpersonmusic.com/wp-content/uploads/2025/09/3PM-emblem-300x296.png",
+                        "id": 0,
+                        "alt": "3PM emblem: music, technology, and sovereignty",
+                        "source": "library"
+                      },
+                      "image_size": "full"
+                    },
+                    "elements": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "paths": {
+    "id": "504dbd7e",
+    "elType": "container",
+    "settings": {
+      "container_type": "flex",
+      "content_width": "full",
+      "css_classes": "pm-section pm-paths",
+      "flex_direction": "column",
+      "flex_direction_mobile": "column",
+      "flex_wrap": "nowrap",
+      "flex_gap": {
+        "size": 20,
+        "unit": "px",
+        "column": "20",
+        "row": "20",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "f83582d0",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "full",
+          "css_classes": "pm-inner",
+          "flex_direction": "column",
+          "flex_direction_mobile": "column",
+          "flex_wrap": "nowrap",
+          "flex_gap": {
+            "size": 20,
+            "unit": "px",
+            "column": "20",
+            "row": "20",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "034576bd",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "02 / YOUR NEXT MOVE",
+              "header_size": "p",
+              "title_color": "#f0f3e9",
+              "typography_typography": "custom",
+              "typography_font_family": "Exo",
+              "typography_font_weight": "600",
+              "_css_classes": "pm-eyebrow"
+            },
+            "elements": []
+          },
+          {
+            "id": "1b3dba38",
+            "elType": "widget",
+            "widgetType": "heading",
+            "settings": {
+              "title": "Different paths. Same frequency.",
+              "header_size": "h2",
+              "title_color": "#f0f3e9",
+              "typography_typography": "custom",
+              "typography_font_family": "Exo",
+              "typography_font_weight": "600",
+              "_css_classes": "pm-heading"
+            },
+            "elements": []
+          },
+          {
+            "id": "7e5d12bc",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "css_classes": "pm-native-cards",
+              "flex_direction": "row",
+              "flex_direction_mobile": "column",
+              "flex_wrap": "nowrap",
+              "flex_gap": {
+                "size": 20,
+                "unit": "px",
+                "column": "20",
+                "row": "20",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "989b86b2",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "css_classes": "pm-card",
+                  "flex_direction": "column",
+                  "flex_direction_mobile": "column",
+                  "flex_wrap": "nowrap",
+                  "flex_gap": {
+                    "size": 20,
+                    "unit": "px",
+                    "column": "20",
+                    "row": "20",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "b759c325",
+                    "elType": "widget",
+                    "widgetType": "heading",
+                    "settings": {
+                      "title": "01 / ARTISTS",
+                      "header_size": "p",
+                      "title_color": "#f0f3e9",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_weight": "600",
+                      "_css_classes": "pm-number"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "4b0d4ddc",
+                    "elType": "widget",
+                    "widgetType": "heading",
+                    "settings": {
+                      "title": "Find your direction.",
+                      "header_size": "h3",
+                      "title_color": "#f0f3e9",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_weight": "600",
+                      "_css_classes": "pm-card-title"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "593f9c21",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                      "editor": "<p>Make your next move with a community of artists, producers, designers, and developers. Keep ownership of your work. Build something that feels like you.</p>",
+                      "text_color": "#a2aaa1",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      },
+                      "_css_classes": "pm-copy"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "01ce995d",
+                    "elType": "widget",
+                    "widgetType": "button",
+                    "settings": {
+                      "text": "Explore artist services",
+                      "link": {
+                        "url": "https://3rdpersonmusic.com/services/",
+                        "is_external": "",
+                        "nofollow": ""
+                      },
+                      "size": "md",
+                      "background_color": "#caff40",
+                      "button_text_color": "#11160a",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": 0,
+                        "right": 0,
+                        "bottom": 0,
+                        "left": 0,
+                        "isLinked": true
+                      },
+                      "_css_classes": "pm-button pm-button-secondary"
+                    },
+                    "elements": []
+                  }
+                ]
+              },
+              {
+                "id": "e724183b",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "css_classes": "pm-card",
+                  "flex_direction": "column",
+                  "flex_direction_mobile": "column",
+                  "flex_wrap": "nowrap",
+                  "flex_gap": {
+                    "size": 20,
+                    "unit": "px",
+                    "column": "20",
+                    "row": "20",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "fce31866",
+                    "elType": "widget",
+                    "widgetType": "heading",
+                    "settings": {
+                      "title": "02 / LISTENERS",
+                      "header_size": "p",
+                      "title_color": "#f0f3e9",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_weight": "600",
+                      "_css_classes": "pm-number"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "e00f411b",
+                    "elType": "widget",
+                    "widgetType": "heading",
+                    "settings": {
+                      "title": "Find your frequency.",
+                      "header_size": "h3",
+                      "title_color": "#f0f3e9",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_weight": "600",
+                      "_css_classes": "pm-card-title"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "64153339",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                      "editor": "<p>Go beyond the algorithm. Discover independent music, meet the people behind it, and support the artists whose work moves you.</p>",
+                      "text_color": "#a2aaa1",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      },
+                      "_css_classes": "pm-copy"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "c75b0d76",
+                    "elType": "widget",
+                    "widgetType": "button",
+                    "settings": {
+                      "text": "Explore the music",
+                      "link": {
+                        "url": "https://3rdpersonmusic.com/music/",
+                        "is_external": "",
+                        "nofollow": ""
+                      },
+                      "size": "md",
+                      "background_color": "#caff40",
+                      "button_text_color": "#11160a",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": 0,
+                        "right": 0,
+                        "bottom": 0,
+                        "left": 0,
+                        "isLinked": true
+                      },
+                      "_css_classes": "pm-button pm-button-secondary"
+                    },
+                    "elements": []
+                  }
+                ]
+              },
+              {
+                "id": "49c95da0",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "css_classes": "pm-card",
+                  "flex_direction": "column",
+                  "flex_direction_mobile": "column",
+                  "flex_wrap": "nowrap",
+                  "flex_gap": {
+                    "size": 20,
+                    "unit": "px",
+                    "column": "20",
+                    "row": "20",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "7a43e000",
+                    "elType": "widget",
+                    "widgetType": "heading",
+                    "settings": {
+                      "title": "03 / COMMUNITY",
+                      "header_size": "p",
+                      "title_color": "#f0f3e9",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_weight": "600",
+                      "_css_classes": "pm-number"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "131dfb4c",
+                    "elType": "widget",
+                    "widgetType": "heading",
+                    "settings": {
+                      "title": "Find your people.",
+                      "header_size": "h3",
+                      "title_color": "#f0f3e9",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_weight": "600",
+                      "_css_classes": "pm-card-title"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "6065bed2",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                      "editor": "<p>Get closer to the music through memberships, exclusive vaults, and shared experiences. Be part of the story as it unfolds.</p>",
+                      "text_color": "#a2aaa1",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      },
+                      "_css_classes": "pm-copy"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "88e67a3c",
+                    "elType": "widget",
+                    "widgetType": "button",
+                    "settings": {
+                      "text": "Explore memberships",
+                      "link": {
+                        "url": "https://3rdpersonmusic.com/membership-levels/",
+                        "is_external": "",
+                        "nofollow": ""
+                      },
+                      "size": "md",
+                      "background_color": "#caff40",
+                      "button_text_color": "#11160a",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": 0,
+                        "right": 0,
+                        "bottom": 0,
+                        "left": 0,
+                        "isLinked": true
+                      },
+                      "_css_classes": "pm-button pm-button-secondary"
+                    },
+                    "elements": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "services": {
+    "id": "ef1c4b45",
+    "elType": "container",
+    "settings": {
+      "container_type": "flex",
+      "content_width": "full",
+      "css_classes": "pm-section pm-services",
+      "flex_direction": "column",
+      "flex_direction_mobile": "column",
+      "flex_wrap": "nowrap",
+      "flex_gap": {
+        "size": 20,
+        "unit": "px",
+        "column": "20",
+        "row": "20",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "e209ac97",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "full",
+          "css_classes": "pm-inner",
+          "flex_direction": "column",
+          "flex_direction_mobile": "column",
+          "flex_wrap": "nowrap",
+          "flex_gap": {
+            "size": 20,
+            "unit": "px",
+            "column": "20",
+            "row": "20",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "c6184385",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "css_classes": "pm-row",
+              "flex_direction": "row",
+              "flex_direction_mobile": "column",
+              "flex_wrap": "nowrap",
+              "flex_gap": {
+                "size": 20,
+                "unit": "px",
+                "column": "20",
+                "row": "20",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "18c1c0f6",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "css_classes": "pm-col",
+                  "flex_direction": "column",
+                  "flex_direction_mobile": "column",
+                  "flex_wrap": "nowrap",
+                  "flex_gap": {
+                    "size": 20,
+                    "unit": "px",
+                    "column": "20",
+                    "row": "20",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "1707329e",
+                    "elType": "widget",
+                    "widgetType": "heading",
+                    "settings": {
+                      "title": "04 / MAKE YOUR NEXT MOVE",
+                      "header_size": "p",
+                      "title_color": "#f0f3e9",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_weight": "600",
+                      "_css_classes": "pm-eyebrow"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "bbb9dcb4",
+                    "elType": "widget",
+                    "widgetType": "heading",
+                    "settings": {
+                      "title": "Your vision.<br>A whole creative network.",
+                      "header_size": "h2",
+                      "title_color": "#f0f3e9",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_weight": "600",
+                      "_css_classes": "pm-heading"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "10c173be",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                      "editor": "<p>You bring the idea. We help bring it into focus. Work with 3PM artists on your sound, your story, and the way you show up in the world.</p>",
+                      "text_color": "#a2aaa1",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      },
+                      "_css_classes": "pm-copy"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "c3f86bd9",
+                    "elType": "widget",
+                    "widgetType": "button",
+                    "settings": {
+                      "text": "Explore our services",
+                      "link": {
+                        "url": "https://3rdpersonmusic.com/services/",
+                        "is_external": "",
+                        "nofollow": ""
+                      },
+                      "size": "md",
+                      "background_color": "#caff40",
+                      "button_text_color": "#11160a",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": 0,
+                        "right": 0,
+                        "bottom": 0,
+                        "left": 0,
+                        "isLinked": true
+                      },
+                      "_css_classes": "pm-button"
+                    },
+                    "elements": []
+                  }
+                ]
+              },
+              {
+                "id": "74fcf396",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "css_classes": "pm-col pm-native-services",
+                  "flex_direction": "column",
+                  "flex_direction_mobile": "column",
+                  "flex_wrap": "nowrap",
+                  "flex_gap": {
+                    "size": 20,
+                    "unit": "px",
+                    "column": "20",
+                    "row": "20",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "e0ad5c94",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "css_classes": "pm-card",
+                      "flex_direction": "column",
+                      "flex_direction_mobile": "column",
+                      "flex_wrap": "nowrap",
+                      "flex_gap": {
+                        "size": 20,
+                        "unit": "px",
+                        "column": "20",
+                        "row": "20",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [
+                      {
+                        "id": "7765da42",
+                        "elType": "widget",
+                        "widgetType": "heading",
+                        "settings": {
+                          "title": "01",
+                          "header_size": "p",
+                          "title_color": "#f0f3e9",
+                          "typography_typography": "custom",
+                          "typography_font_family": "Exo",
+                          "typography_font_weight": "600",
+                          "_css_classes": "pm-number"
+                        },
+                        "elements": []
+                      },
+                      {
+                        "id": "859c1c3c",
+                        "elType": "widget",
+                        "widgetType": "heading",
+                        "settings": {
+                          "title": "Production & songwriting",
+                          "header_size": "h3",
+                          "title_color": "#f0f3e9",
+                          "typography_typography": "custom",
+                          "typography_font_family": "Exo",
+                          "typography_font_weight": "600",
+                          "_css_classes": "pm-card-title"
+                        },
+                        "elements": []
+                      },
+                      {
+                        "id": "4301cefe",
+                        "elType": "widget",
+                        "widgetType": "text-editor",
+                        "settings": {
+                          "editor": "<p>Original instrumentals, soundtracks, full songs, or help finishing the one you started.</p>",
+                          "text_color": "#a2aaa1",
+                          "typography_typography": "custom",
+                          "typography_font_family": "Exo",
+                          "typography_font_size": {
+                            "size": 16,
+                            "unit": "px"
+                          },
+                          "_css_classes": "pm-copy"
+                        },
+                        "elements": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "f21bc358",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "css_classes": "pm-card",
+                      "flex_direction": "column",
+                      "flex_direction_mobile": "column",
+                      "flex_wrap": "nowrap",
+                      "flex_gap": {
+                        "size": 20,
+                        "unit": "px",
+                        "column": "20",
+                        "row": "20",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [
+                      {
+                        "id": "abc53c26",
+                        "elType": "widget",
+                        "widgetType": "heading",
+                        "settings": {
+                          "title": "02",
+                          "header_size": "p",
+                          "title_color": "#f0f3e9",
+                          "typography_typography": "custom",
+                          "typography_font_family": "Exo",
+                          "typography_font_weight": "600",
+                          "_css_classes": "pm-number"
+                        },
+                        "elements": []
+                      },
+                      {
+                        "id": "40669924",
+                        "elType": "widget",
+                        "widgetType": "heading",
+                        "settings": {
+                          "title": "Mixing",
+                          "header_size": "h3",
+                          "title_color": "#f0f3e9",
+                          "typography_typography": "custom",
+                          "typography_font_family": "Exo",
+                          "typography_font_weight": "600",
+                          "_css_classes": "pm-card-title"
+                        },
+                        "elements": []
+                      },
+                      {
+                        "id": "0dec8928",
+                        "elType": "widget",
+                        "widgetType": "text-editor",
+                        "settings": {
+                          "editor": "<p>Professional quality with a creative approach that brings out your own sound.</p>",
+                          "text_color": "#a2aaa1",
+                          "typography_typography": "custom",
+                          "typography_font_family": "Exo",
+                          "typography_font_size": {
+                            "size": 16,
+                            "unit": "px"
+                          },
+                          "_css_classes": "pm-copy"
+                        },
+                        "elements": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "c5c2301f",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "css_classes": "pm-card",
+                      "flex_direction": "column",
+                      "flex_direction_mobile": "column",
+                      "flex_wrap": "nowrap",
+                      "flex_gap": {
+                        "size": 20,
+                        "unit": "px",
+                        "column": "20",
+                        "row": "20",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [
+                      {
+                        "id": "8d81c192",
+                        "elType": "widget",
+                        "widgetType": "heading",
+                        "settings": {
+                          "title": "03",
+                          "header_size": "p",
+                          "title_color": "#f0f3e9",
+                          "typography_typography": "custom",
+                          "typography_font_family": "Exo",
+                          "typography_font_weight": "600",
+                          "_css_classes": "pm-number"
+                        },
+                        "elements": []
+                      },
+                      {
+                        "id": "40f28e05",
+                        "elType": "widget",
+                        "widgetType": "heading",
+                        "settings": {
+                          "title": "Features & collaborations",
+                          "header_size": "h3",
+                          "title_color": "#f0f3e9",
+                          "typography_typography": "custom",
+                          "typography_font_family": "Exo",
+                          "typography_font_weight": "600",
+                          "_css_classes": "pm-card-title"
+                        },
+                        "elements": []
+                      },
+                      {
+                        "id": "f62f90aa",
+                        "elType": "widget",
+                        "widgetType": "text-editor",
+                        "settings": {
+                          "editor": "<p>Work with 3PM artists and bring a new perspective to your next project.</p>",
+                          "text_color": "#a2aaa1",
+                          "typography_typography": "custom",
+                          "typography_font_family": "Exo",
+                          "typography_font_size": {
+                            "size": 16,
+                            "unit": "px"
+                          },
+                          "_css_classes": "pm-copy"
+                        },
+                        "elements": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "d000240c",
+                    "elType": "container",
+                    "settings": {
+                      "container_type": "flex",
+                      "content_width": "full",
+                      "css_classes": "pm-card",
+                      "flex_direction": "column",
+                      "flex_direction_mobile": "column",
+                      "flex_wrap": "nowrap",
+                      "flex_gap": {
+                        "size": 20,
+                        "unit": "px",
+                        "column": "20",
+                        "row": "20",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [
+                      {
+                        "id": "9b83556c",
+                        "elType": "widget",
+                        "widgetType": "heading",
+                        "settings": {
+                          "title": "04",
+                          "header_size": "p",
+                          "title_color": "#f0f3e9",
+                          "typography_typography": "custom",
+                          "typography_font_family": "Exo",
+                          "typography_font_weight": "600",
+                          "_css_classes": "pm-number"
+                        },
+                        "elements": []
+                      },
+                      {
+                        "id": "7bf75d44",
+                        "elType": "widget",
+                        "widgetType": "heading",
+                        "settings": {
+                          "title": "Creative direction & consultation",
+                          "header_size": "h3",
+                          "title_color": "#f0f3e9",
+                          "typography_typography": "custom",
+                          "typography_font_family": "Exo",
+                          "typography_font_weight": "600",
+                          "_css_classes": "pm-card-title"
+                        },
+                        "elements": []
+                      },
+                      {
+                        "id": "e6b9d5d8",
+                        "elType": "widget",
+                        "widgetType": "text-editor",
+                        "settings": {
+                          "editor": "<p>Shape your identity, sharpen your vision, and connect the pieces of your project.</p>",
+                          "text_color": "#a2aaa1",
+                          "typography_typography": "custom",
+                          "typography_font_family": "Exo",
+                          "typography_font_size": {
+                            "size": 16,
+                            "unit": "px"
+                          },
+                          "_css_classes": "pm-copy"
+                        },
+                        "elements": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "coin": {
+    "id": "b3a1984b",
+    "elType": "container",
+    "settings": {
+      "container_type": "flex",
+      "content_width": "full",
+      "css_classes": "pm-section pm-coin",
+      "flex_direction": "column",
+      "flex_direction_mobile": "column",
+      "flex_wrap": "nowrap",
+      "flex_gap": {
+        "size": 20,
+        "unit": "px",
+        "column": "20",
+        "row": "20",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "c1e75cb9",
+        "elType": "container",
+        "settings": {
+          "container_type": "flex",
+          "content_width": "full",
+          "css_classes": "pm-inner",
+          "flex_direction": "column",
+          "flex_direction_mobile": "column",
+          "flex_wrap": "nowrap",
+          "flex_gap": {
+            "size": 20,
+            "unit": "px",
+            "column": "20",
+            "row": "20",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "2a33dda7",
+            "elType": "container",
+            "settings": {
+              "container_type": "flex",
+              "content_width": "full",
+              "css_classes": "pm-row",
+              "flex_direction": "row",
+              "flex_direction_mobile": "column",
+              "flex_wrap": "nowrap",
+              "flex_gap": {
+                "size": 20,
+                "unit": "px",
+                "column": "20",
+                "row": "20",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "89fe36bc",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "css_classes": "pm-col pm-coin-art",
+                  "flex_direction": "column",
+                  "flex_direction_mobile": "column",
+                  "flex_wrap": "nowrap",
+                  "flex_gap": {
+                    "size": 20,
+                    "unit": "px",
+                    "column": "20",
+                    "row": "20",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "7c71f17c",
+                    "elType": "widget",
+                    "widgetType": "image",
+                    "settings": {
+                      "image": {
+                        "url": "https://3rdpersonmusic.com/wp-content/uploads/2025/10/3pm-coin-3D-wide-500x500.webp",
+                        "id": 0,
+                        "alt": "$3PM digital coin",
+                        "source": "library"
+                      },
+                      "image_size": "full"
+                    },
+                    "elements": []
+                  }
+                ]
+              },
+              {
+                "id": "d4b0e685",
+                "elType": "container",
+                "settings": {
+                  "container_type": "flex",
+                  "content_width": "full",
+                  "css_classes": "pm-col",
+                  "flex_direction": "column",
+                  "flex_direction_mobile": "column",
+                  "flex_wrap": "nowrap",
+                  "flex_gap": {
+                    "size": 20,
+                    "unit": "px",
+                    "column": "20",
+                    "row": "20",
+                    "isLinked": true
+                  }
+                },
+                "elements": [
+                  {
+                    "id": "8203b64e",
+                    "elType": "widget",
+                    "widgetType": "heading",
+                    "settings": {
+                      "title": "05 / THE ECOSYSTEM",
+                      "header_size": "p",
+                      "title_color": "#f0f3e9",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_weight": "600",
+                      "_css_classes": "pm-eyebrow"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "7a1cd2aa",
+                    "elType": "widget",
+                    "widgetType": "heading",
+                    "settings": {
+                      "title": "More than a listener.<br>Part of the story.",
+                      "header_size": "h2",
+                      "title_color": "#f0f3e9",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_weight": "600",
+                      "_css_classes": "pm-heading"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "aaecd14c",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                      "editor": "<p>$3PM connects the platform’s releases, memberships, exclusive content, and community rewards. It’s one part of our experiment in bringing artists and their supporters closer together.</p>",
+                      "text_color": "#a2aaa1",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      },
+                      "_css_classes": "pm-copy"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "df0d433e",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                      "editor": "<p>Explore the Daily Wallet, HODL rewards, and the project’s plans in our Black Paper.</p>",
+                      "text_color": "#a2aaa1",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      },
+                      "_css_classes": "pm-copy"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "99a6aefd",
+                    "elType": "widget",
+                    "widgetType": "button",
+                    "settings": {
+                      "text": "Understand $3PM",
+                      "link": {
+                        "url": "https://3rdpersonmusic.com/about/#3pm-coin",
+                        "is_external": "",
+                        "nofollow": ""
+                      },
+                      "size": "md",
+                      "background_color": "#caff40",
+                      "button_text_color": "#11160a",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": 0,
+                        "right": 0,
+                        "bottom": 0,
+                        "left": 0,
+                        "isLinked": true
+                      },
+                      "_css_classes": "pm-button pm-button-secondary"
+                    },
+                    "elements": []
+                  },
+                  {
+                    "id": "fccb04d9",
+                    "elType": "widget",
+                    "widgetType": "text-editor",
+                    "settings": {
+                      "editor": "<p>A project in development. Read the current model and roadmap.</p>",
+                      "text_color": "#a2aaa1",
+                      "typography_typography": "custom",
+                      "typography_font_family": "Exo",
+                      "typography_font_size": {
+                        "size": 16,
+                        "unit": "px"
+                      },
+                      "_css_classes": "pm-fineprint"
+                    },
+                    "elements": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

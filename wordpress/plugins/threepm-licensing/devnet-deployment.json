@@ -1,0 +1,12 @@
+{
+  "network": "devnet",
+  "genesis": "EtWTRABZaYq6iMfeYKouRu166VU2xqa1wcaWoxPkrZBG",
+  "program_id": "91pPfyqYWLLnATYWyWjgGGH5xtmd3QwHHbbfYawQE1ym",
+  "deployment_signature": "5QyZGaL6qCN7b8YnFQ6PBR2aZ4bJ1RkihpZLQLvx9Fg4vCWiQ29nSJ19uzr7x2fS7ZLVytD9ESJpNyQinY4ArxNk",
+  "binary_sha256": "3594c5198f04d0e5ddba968f7a93d41763021166f55aff08666578dff108e2c2",
+  "source_sha256": "994b3fcf371de996488d84d4568038b77f81a200105fea2432b2038af9ac4cbb",
+  "deployed_at": "2026-11-02T20:56:05.757766+00:00",
+  "upgrade_authority": "8RJeTu6Df9NeEfRnt2eqwgUtJLH7rCd4HAuMgzZhtoCZ",
+  "payments_enabled": false,
+  "legal_acceptance": false
+}

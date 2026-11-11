@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "network": "devnet",
+  "enabled": false,
+  "platformReceivingAddress": "",
+  "deploymentAuthority": null,
+  "mintMode": "purchase",
+  "editionSupply": "artist-defined-limited",
+  "buyerPaysMintFee": true
+}
